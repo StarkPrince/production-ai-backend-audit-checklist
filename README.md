@@ -56,7 +56,7 @@ The audit reviews architecture, AI workflows, APIs, databases, queues, auth, CI/
 CTA:
 
 ```text
-Book a call at https://cal.com/starkprince or start from https://princeraj.one/.
+Book a call at https://cal.com/starkprince. Paid audits are scoped at $80/hour minimum.
 ```
 
 ## Notes
